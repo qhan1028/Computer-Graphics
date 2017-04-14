@@ -12,7 +12,7 @@
   ![](https://i.imgur.com/veloYoq.png)
 
 ### Code Work
-* File: `/project1/Qt_Opengl_Framework/Qt_Opengl_Framework/Application.cpp`
+* File: `/project1/Project1_Framework/Qt_Opengl_Framework/Application.cpp`
 * Functions:
     * Color
         * Gray `void Application::Gray()`
