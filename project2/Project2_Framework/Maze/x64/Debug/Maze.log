@@ -1,0 +1,21 @@
+﻿已經開始建置於 2017/4/14 下午 04:22:25。
+     1>節點 2 (Build 目標) 上的專案 "C:\Users\Qhan\Desktop\CGLab\pj2\B03902089_Project2_ver2\Maze\Maze.vcxproj"。
+     1>C:\Program Files (x86)\MSBuild\Microsoft.Cpp\v4.0\V120\Microsoft.CppBuild.targets(935,5): warning MSB8027: Two or more files with the name of moc_maze.cpp will produce outputs to the same location. This can lead to an incorrect build result.  The files involved are GeneratedFiles\Debug\moc_maze.cpp, GeneratedFiles\Release\moc_maze.cpp.
+     1>C:\Program Files (x86)\MSBuild\Microsoft.Cpp\v4.0\V120\Microsoft.CppBuild.targets(935,5): warning MSB8027: Two or more files with the name of moc_OpenGLWidget.cpp will produce outputs to the same location. This can lead to an incorrect build result.  The files involved are GeneratedFiles\Debug\moc_OpenGLWidget.cpp, GeneratedFiles\Release\moc_OpenGLWidget.cpp.
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\x86_amd64\CL.exe /c /I.\GeneratedFiles /I. /IC:\Qt\Qt5.4.2\5.4\msvc2013_64_opengl\include /I.\GeneratedFiles\Debug /IC:\Qt\Qt5.4.2\5.4\msvc2013_64_opengl\include\QtCore /IC:\Qt\Qt5.4.2\5.4\msvc2013_64_opengl\include\QtGui /IC:\Qt\Qt5.4.2\5.4\msvc2013_64_opengl\include\QtOpenGL /IC:\Qt\Qt5.4.2\5.4\msvc2013_64_opengl\include\QtWidgets /Zi /nologo /W1 /WX- /Od /D UNICODE /D WIN32 /D WIN64 /D QT_CORE_LIB /D QT_GUI_LIB /D QT_OPENGL_LIB /D QT_WIDGETS_LIB /Gm- /EHsc /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"x64\Debug\\" /Fd"x64\Debug\vc120.pdb" /Gd /TP /errorReport:prompt OpenGLWidget.cpp
+         OpenGLWidget.cpp
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\x86_amd64\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Users\Qhan\Desktop\CGLab\pj2\B03902089_Project2_ver2\x64\Debug\\Maze.exe" /NOLOGO /LIBPATH:C:\Qt\Qt5.4.2\5.4\msvc2013_64_opengl\lib qtmaind.lib Qt5Cored.lib Qt5Guid.lib Qt5OpenGLd.lib opengl32.lib glu32.lib Qt5Widgetsd.lib kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"C:\Users\Qhan\Desktop\CGLab\pj2\B03902089_Project2_ver2\x64\Debug\Maze.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:\Users\Qhan\Desktop\CGLab\pj2\B03902089_Project2_ver2\x64\Debug\Maze.lib" /MACHINE:X64 x64\Debug\moc_maze.obj
+         x64\Debug\moc_OpenGLWidget.obj
+         x64\Debug\qrc_maze.obj
+         x64\Debug\main.obj
+         x64\Debug\maze.obj
+         x64\Debug\Maze_Map.obj
+         x64\Debug\OpenGLWidget.obj
+         Maze.vcxproj -> C:\Users\Qhan\Desktop\CGLab\pj2\B03902089_Project2_ver2\x64\Debug\Maze.exe
+     1>專案 "C:\Users\Qhan\Desktop\CGLab\pj2\B03902089_Project2_ver2\Maze\Maze.vcxproj" (Build 目標) 建置完成。
+
+建置成功。
+
+經過時間 00:00:02.00
