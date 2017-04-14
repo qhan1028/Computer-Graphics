@@ -20,15 +20,15 @@
         * `bool incell(...)`
     * `void drawCell(...)` Recursive function
         * `void drawWall(...)` Recursion terminate
-            1. `void worldToView(...)` Transform coordinate from global (world) to local (player)
-            2. **`void viewToSight(...)`** Split player FOV
-                a. `int inSight(...)`
-                b. `int inAngle(...)`
-                c. `double findAngle(...)`
-                d. `void findIntersection(...)`, `void findPoint(...)`
-            3. `void sightTo2D(...)` Project 3D to 2D
-            4. `void draw2D(...)`
+            * `void worldToView(...)` Transform coordinate from global (world) to local (player)
+            * **`void viewToSight(...)`** Split player FOV <br>
+                a. `int inSight(...)` <br>
+                b. `int inAngle(...)` <br>
+                c. `double findAngle(...)` <br>
+                d. `void findIntersection(...)`, `void findPoint(...)` <br>
+            * `void sightTo2D(...)` Project 3D to 2D
+            * `void draw2D(...)`
         * `int findNeighborCell(...)`
-        * **`void splitSight(...)`** Split FOV to next cell
-            1. `int inAngle(...)`
+        * **`void splitSight(...)`** Split FOV to next cell <br>
+            a. `int inAngle(...)`
         * `void drawCell(...)` Next recursion
