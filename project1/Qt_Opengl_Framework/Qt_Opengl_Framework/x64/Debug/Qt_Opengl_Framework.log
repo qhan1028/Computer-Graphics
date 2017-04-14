@@ -1,0 +1,4 @@
+﻿  Application.cpp
+Application.cpp(539): warning C4838: 從 'double' 到 'float' 的轉換必須是縮小轉換
+  Qt_Opengl_Framework.vcxproj -> C:\Users\Qhan\Desktop\CGLab\pj1\Qt_Opengl_Framework\x64\Debug\Qt_Opengl_Framework.exe
+  Qt_Opengl_Framework.vcxproj -> C:\Users\Qhan\Desktop\CGLab\pj1\Qt_Opengl_Framework\x64\Debug\Qt_Opengl_Framework.pdb (Full PDB)
