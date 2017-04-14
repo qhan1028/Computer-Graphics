@@ -14,7 +14,7 @@
 
 ### Code Work
 * File: `/project2/Project2_Framework/Maze/OpenGLWidget.cpp`
-* Functions: (Bold font is the hard part.)
+* Functions: **(Bold font is the hard part.)** <br>
   `void Map_3D()`
     * `int findCell(...)` Find initial cell
         * `bool incell(...)`
