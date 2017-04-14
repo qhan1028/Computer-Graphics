@@ -1,5 +1,3 @@
-<font face='times'>
-
 # Computer Graphics Project 1
 ## An Image Editing Program
 ### Specifications
@@ -10,7 +8,7 @@
 * Download VS2015 Addin 2.1.1 [link](https://download.qt.io/archive/vsaddin/qt-vs-tools-msvc2015-2.1.1.vsix.mirrorlist)
 * Setup Include/Reference/Library Path
   ![](https://i.imgur.com/djTHnbj.png)
-* Setup Qt Version
+* Setup Qt Version <br>
   ![](https://i.imgur.com/veloYoq.png)
 
 ### Code Work
