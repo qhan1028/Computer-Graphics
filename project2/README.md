@@ -1,5 +1,5 @@
 # Computer Graphics Project 2
-## Maze
+## Maze Visibility and Rendering Graphics
 ### Specifications
 * [Reference Link](http://dgmm.csie.ntust.edu.tw/?ac1=courprojdetail_CG2012F_3&id=588070746df1a&sid=588937bc9568a)
 ### Environment Setup
@@ -32,3 +32,5 @@
         * **`void splitSight(...)`** Split FOV to next cell <br>
             a. `int inAngle(...)`
         * `void drawCell(...)` Next recursion
+### Demo
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ShUD0kT6A-o" frameborder="0" allowfullscreen></iframe>
